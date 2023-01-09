@@ -1,4 +1,4 @@
-Diehard Linux user. I am skilled in the use of multiple programming and documentation languages. I've been an official Lubuntu and Ubuntu Member since August 6, 2022. I also help moderate #ubuntu:matrix.org on Matrix.
+Diehard Linux user. I am skilled in the use of multiple programming and documentation languages. I've been an official Lubuntu and Ubuntu Member since August 6, 2022, and a Lubuntu Developer since December 8, 2022. I also help moderate #ubuntu:matrix.org on Matrix.
 
 Reddit ([u/ArrayBolt3](https://www.reddit.com/user/ArrayBolt3))  
 Lubuntu Discourse ([@ArrayBolt3](https://discourse.lubuntu.me/u/arraybolt3))  
