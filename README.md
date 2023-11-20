@@ -1,4 +1,4 @@
-Christian programmer geek.
+Christian programmer geek. Currently a Lubuntu Developer.
 
 Reddit ([u/ArrayBolt3](https://www.reddit.com/user/ArrayBolt3))  
 IRC (ArrayBolt3 on irc.libera.chat)  
