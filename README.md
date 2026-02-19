@@ -11,7 +11,7 @@ Kicksecure and Whonix.
   * Primary: arraybolt3@gmail.com
   * Ubuntu-specific: arraybolt3@ubuntu.com
   * KFocus-specific: arainbolt@kfocus.org
-* PGP fingerprint: EB29 139E F670 1B17 0FE8  F114 7038 6361 70FD B8E0
+* PGP fingerprint: `EB29 139E F670 1B17 0FE8  F114 7038 6361 70FD B8E0`
 * Public PGP key:
 
 ```
