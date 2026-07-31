@@ -9,6 +9,7 @@ Kicksecure and Whonix.
 * Ask Ubuntu (ArrayBolt3, https://askubuntu.com/users/1598467/arraybolt3)
 * Email:
   * Primary: arraybolt3@gmail.com
+  * Secondary: arraybolt3@riseup.net
   * Ubuntu-specific: arraybolt3@ubuntu.com
   * KFocus-specific: arainbolt@kfocus.org
 * PGP fingerprint: `EB29 139E F670 1B17 0FE8  F114 7038 6361 70FD B8E0`
